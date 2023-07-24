@@ -8,8 +8,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-[![Linkedin Badge](https://img.shields.io/badge/-okolie_chukwuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/okolie-chukwuka-87609b181/)
-[![Gmail Badge](https://img.shields.io/badge/-chukypedro15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:chukypedro15@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/chavanrushikesh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
+[![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
 
 <p align="left"> <a href="https://twitter.com/crushikesh74" target="blank"><img src="https://img.shields.io/twitter/follow/crushikesh74?logo=twitter&style=for-the-badge" alt="rushikeshchavan" /></a> </p>
 
