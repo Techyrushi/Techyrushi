@@ -53,5 +53,5 @@
 
 ### 📈 My GitHub Contributions
 
-![Snake animation](https://github.com/Techyrushi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Techyrushi/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
