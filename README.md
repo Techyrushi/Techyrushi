@@ -19,7 +19,8 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Techyrushi](https://github.com/Techyrushi)
+- 👨‍💻 All of my projects are available at
+- [https://github.com/Techyrushi](https://github.com/Techyrushi)
 
 - 💬 Ask me about **DevOps Tools**
 
