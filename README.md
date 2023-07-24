@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)
 
-<h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
+<h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1><br>
 
-<h3 align="center"> 💻 DevSecOps Wizard | 💡 Web Design | DevOps & Cloud DevOps Enthusiast 📱</h3>
+<h3 align="center"> 💻 DevSecOps Wizard | 💡 Web Design | DevOps & Cloud DevOps Enthusiast 📱</h3><br>
 
-<h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br><br>
+<h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350"><br>
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/chavanrushikesh/)
@@ -20,12 +20,12 @@
 - 🌱 I’m currently learning **DevOps & Cloud DevOps**
 
 - 👨‍💻 All of my projects are available at
-   -[https://github.com/Techyrushi](https://github.com/Techyrushi)
+  - [https://github.com/Techyrushi](https://github.com/Techyrushi)
 
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
-   -[To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
+ - [To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
 
 - 📄 Know about my experiences [http://crushikesh.000webhostapp.com/](http://crushikesh.000webhostapp.com/)
 
