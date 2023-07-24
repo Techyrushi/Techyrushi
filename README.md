@@ -10,7 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/crushikesh74" target="blank"><img src="https://img.shields.io/twitter/follow/crushikesh74?logo=twitter&style=for-the-badge" alt="rushikeshchavan" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Builder Series & Automated setup of 3 tier application**
+- 🔭 I’m currently working on **AWS Builder Series & Automated setup of 3
+                                                        tier application**
 
 - 🌱 I’m currently learning **DevOps & Cloud DevOps**
 
@@ -19,7 +20,7 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
-- - [To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
+- [To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
 
 - 📄 Know about my experiences [http://crushikesh.000webhostapp.com/](http://crushikesh.000webhostapp.com/)
 
