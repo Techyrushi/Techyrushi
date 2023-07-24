@@ -52,5 +52,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techyrushi&" alt="techyrushi" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Techyrushi/Techyrushi/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Techyrushi/blob/output/github-contribution-grid-snake.svg)
 
