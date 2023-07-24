@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](https://sonuvishwakarma.netlify.app/)
+[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](http://crushikesh.000webhostapp.com/)
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
@@ -8,7 +8,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
-[![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/chavanrushikesh/)
+[![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
 [![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
 
 <p align="left"> <a href="https://twitter.com/crushikesh74" target="blank"><img src="https://img.shields.io/twitter/follow/crushikesh74?logo=twitter&style=for-the-badge" alt="rushikeshchavan" /></a> </p>
