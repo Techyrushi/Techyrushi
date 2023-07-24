@@ -6,12 +6,14 @@
 
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/okolie-chukwuka-87609b181/)](https://www.linkedin.com/in/chavanrushikesh/)
 [![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
 
 <p align="left"> <a href="https://twitter.com/crushikesh74" target="blank"><img src="https://img.shields.io/twitter/follow/crushikesh74?logo=twitter&style=for-the-badge" alt="rushikeshchavan" /></a> </p>
+
 
 - 🔭 I’m currently working on **AWS Builder Series & Automated setup of 3 tier application**
 
