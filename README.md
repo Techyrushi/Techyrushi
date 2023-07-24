@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/0*BLwJcjZxounn0T8D.gif")>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/crushikesh74" target="blank"><img src="https://img.shields.io/twitter/follow/crushikesh74?logo=twitter&style=for-the-badge" alt="rushikeshchavan" /></a> </p>
 
