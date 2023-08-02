@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
-<h3 align="center"> 💻 DevSecOps Wizard | 💡 Web Design | DevOps & Cloud DevOps Enthusiast 📱</h3>
+<h3 align="center"> ♾️ DevSecOps Wizard | 💡 Web Design | DevOps & Cloud DevOps Enthusiast 📱</h3>
 
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
 
