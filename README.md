@@ -26,7 +26,7 @@
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
   - [To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
 
-- 📄 Know about my experiences [http://crushikesh.000webhostapp.com/](http://techyrushi.000webhostapp.com/)
+- 📄 Know about my experiences [http://techyrushi.000webhostapp.com/](http://techyrushi.000webhostapp.com/)
 
 - ⚡ Fun fact **The name "Tux" was chosen for the DevOps mascot because it is a penguin, and penguins are known for being good at 
       teamwork and collaboration.**
