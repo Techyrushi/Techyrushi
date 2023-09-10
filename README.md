@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)](http://crushikesh.000webhostapp.com/)
+[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](http://crushikesh.000webhostapp.com/)
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
