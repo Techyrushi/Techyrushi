@@ -12,9 +12,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
 [![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
-
-
 
 - 🔭 I’m currently working on **AWS Builder Series & Automated setup of 3 tier application**
 
