@@ -13,7 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
 [![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
 
-- 🔭 I’m currently working on **AWS Builder Series & Automated setup of 3 tier application**
+- 🔭 I’m currently working on **Foreign Scholarship Web Portal**
 
 - 🌱 I’m currently learning **DevOps & Cloud DevOps**
 
@@ -23,7 +23,7 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
-  - [To view my resume, please click this link.](https://drive.google.com/file/d/1oz65V9ATEEnVaOKLAmR-z5soKBVQ-9iI/view?usp=drivesdk)
+  - [To view my resume, please click this link.](https://drive.google.com/file/d/1XJ6MNKXqMxoirFzAXZPkTiUpujZ8d-Q0/view?usp=sharing)
 
 - 📄 Know about my experiences [http://techyrushi.000webhostapp.com/](http://techyrushi.000webhostapp.com/)
 
@@ -52,17 +52,14 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   
 - 🌐 &nbsp;
   ![React/React Native](https://img.shields.io/badge/-React/React%20Native-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui&logoColor=563D7C)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
   
 - 🛢️ &nbsp;
@@ -75,6 +72,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=AWS)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
