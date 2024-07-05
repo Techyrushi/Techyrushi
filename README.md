@@ -72,7 +72,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=AWS)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
