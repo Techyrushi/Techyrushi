@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](http://crushikesh.000webhostapp.com/)
+[![MasterHead](https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif)](http://crushikesh.000webhostapp.com/)
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
@@ -9,9 +9,6 @@
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
-
-[![Linkedin Badge](https://img.shields.io/badge/-rushikesh_chavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chavanrushikesh/)](https://www.linkedin.com/in/chavanrushikesh/)
-[![Gmail Badge](https://img.shields.io/badge/rushikeshchavan815@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rushikeshchavan815@gmail.com)](mailto:rushikeshchavan815@gmail.com) 
 
 - 🔭 I’m currently working on **Foreign Scholarship Web Portal**
 
@@ -29,18 +26,6 @@
 
 - ⚡ Fun fact **The name "Tux" was chosen for the DevOps mascot because it is a penguin, and penguins are known for being good at 
       teamwork and collaboration.**
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/crushikesh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushikeshchavan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chavanrushikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chavanrushikesh/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/TechyRushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TechyRushi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/invite/smdquy7i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/invite/smdquy7i/" height="30" width="40" /></a>
-</p>
 
 <h3> 🛠️ &nbsp;Tech Stack</h3>  
 
@@ -93,7 +78,19 @@
   ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
   ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
   ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
-</div>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<a href="http://techyrushi.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com.np-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Techyrushi-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Techyrushi-blue?style=flat-square&logo=facebook"></a>
+<a href="https://twitter.com/crushikesh74"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Techyrushi-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/chavanrushikesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Techyrushi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://auth.geeksforgeeks.org/invite/smdquy7i/"><img alt="gfg" src="https://img.shields.io/badge/Geeksforgeeks-Techyrushi-blue?style=flat-square&logo=geeksforgeeks"></a>
+<a href="https://www.leetcode.com/TechyRushi"><img alt="leetcode" src="https://img.shields.io/badge/Leetcode-Techyrushi-blue?style=flat-square&logo=leetcode"></a>
+<a href="mailto:rushikeshchavan815@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Techyrushi-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyrushi&show_icons=true&locale=en&layout=compact" alt="techyrushi" /></p>
 
