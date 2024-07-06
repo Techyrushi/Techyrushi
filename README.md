@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350"><br>
 
 - 🔭 I’m currently working on **Foreign Scholarship Web Portal**
 
@@ -81,7 +81,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
-<a href="http://techyrushi.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com.np-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://techyrushi.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Techyrushi-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Techyrushi-blue?style=flat-square&logo=facebook"></a>
 <a href="https://twitter.com/crushikesh74"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Techyrushi-blue?style=flat-square&logo=twitter"></a>
