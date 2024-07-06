@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif)](http://crushikesh.000webhostapp.com/)
+[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](http://crushikesh.000webhostapp.com/)
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
@@ -24,8 +24,7 @@
 
 - 📄 Know about my experiences [http://techyrushi.000webhostapp.com/](http://techyrushi.000webhostapp.com/)
 
-- ⚡ Fun fact **The name "Tux" was chosen for the DevOps mascot because it is a penguin, and penguins are known for being good at 
-      teamwork and collaboration.**
+- ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
 
 <h3> 🛠️ &nbsp;Tech Stack</h3>  
 
@@ -91,6 +90,8 @@
 <a href="https://www.leetcode.com/TechyRushi"><img alt="leetcode" src="https://img.shields.io/badge/Leetcode-Techyrushi-blue?style=flat-square&logo=leetcode"></a>
 <a href="mailto:rushikeshchavan815@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Techyrushi-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/avayyyyyyy/avayyyyyyy/output/snake.svg" alt="Snake animation" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyrushi&show_icons=true&locale=en&layout=compact" alt="techyrushi" /></p>
 
