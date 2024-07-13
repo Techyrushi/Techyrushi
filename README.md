@@ -20,9 +20,9 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
-  - [To view my resume, please click this link.](https://drive.google.com/file/d/1XJ6MNKXqMxoirFzAXZPkTiUpujZ8d-Q0/view?usp=sharing)
+  - [To view my resume, please click this link.](https://drive.google.com/file/d/11n2WRfL_BzBQRw2fo4l6CuAfNXhfJJMU/view?usp=drive_link)
 
-- 📄 Know about my experiences [http://techyrushi.000webhostapp.com/](http://techyrushi.000webhostapp.com/)
+- 📄 Know about my experiences [https://techyrushi.vercel.app/](https://techyrushi.vercel.app//)
 
 - ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
 
