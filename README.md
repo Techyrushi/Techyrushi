@@ -81,12 +81,12 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
-<a href="http://techyrushi.000webhostapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="http://techyrushi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Techyrushi-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.facebook.com/rgautam320"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Techyrushi-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/profile.php?id=100087634534725"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Techyrushi-blue?style=flat-square&logo=facebook"></a>
 <a href="https://twitter.com/crushikesh74"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Techyrushi-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/chavanrushikesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Techyrushi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://auth.geeksforgeeks.org/invite/smdquy7i/"><img alt="gfg" src="https://img.shields.io/badge/Geeksforgeeks-Techyrushi-blue?style=flat-square&logo=geeksforgeeks"></a>
+<a href="https://www.geeksforgeeks.org/user/_rushikeshchavan/"><img alt="gfg" src="https://img.shields.io/badge/Geeksforgeeks-Techyrushi-blue?style=flat-square&logo=geeksforgeeks"></a>
 <a href="https://www.leetcode.com/TechyRushi"><img alt="leetcode" src="https://img.shields.io/badge/Leetcode-Techyrushi-blue?style=flat-square&logo=leetcode"></a>
 <a href="mailto:rushikeshchavan815@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Techyrushi-blue?style=flat-square&logo=gmail"></a>
 </p>
