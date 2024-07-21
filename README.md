@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Techyrushi&label=Profile%20views&color=0e75b6&style=flat" alt="Techyrushi" /> </p>
 
-<h3 align="center"> ♾️ DevSecOps Wizard | 💡 Web Dev | DevOps & Cloud DevOps Enthusiast 📱</h3>
+<h3 align="center"> 🔧 Backend Developer & DevOps Specialist | Expert in Backend Systems & Operational Efficiency 🌐</h3>
 
 <h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
 
