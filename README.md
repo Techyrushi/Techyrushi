@@ -6,7 +6,7 @@
 
 <h3 align="center"> 🔧 Backend Developer & DevOps Specialist | Expert in Backend Systems & Operational Efficiency 🌐</h3>
 
-<h3 align="center">I'm on my way to becoming a DevOps engineer. I'm learning about cloud computing, automation, and continuous integration/continuous delivery (CI/CD). Always learning and growing.</h3><br>
+<h3 align="center">I’m dedicated to mastering diverse technologies, from frontend frameworks to backend systems. With a passion for continuous learning, I am committed to staying ahead of tech trends and applying my skills to create innovative and efficient solutions.</h3><br>
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350"><br>
 
