@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Techyrushi&label=Profile%20views&color=0e75b6&style=flat" alt="Techyrushi" /> </p>
 
-<h3 align="center"> 🔧 Backend Developer & DevOps Specialist | Expert in Backend Systems & Operational Efficiency 🌐</h3>
+<h3 align="center"> 🔧 Backend Developer & DevOps Enthusiast | Expert in Backend Systems & Operational Efficiency 🌐</h3>
 
 <h3 align="center">I’m dedicated to mastering diverse technologies, from frontend frameworks to backend systems. With a passion for continuous learning, I am committed to staying ahead of tech trends and applying my skills to create innovative and efficient solutions.</h3><br>
 
