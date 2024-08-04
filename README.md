@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](http://crushikesh.000webhostapp.com/)
+[![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)](http://techyrushi.vercel.app/)
 
 <h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
 
@@ -8,7 +8,7 @@
 
 <h3 align="center">I’m dedicated to mastering diverse technologies, from frontend frameworks to backend systems. With a passion for continuous learning, I am committed to staying ahead of tech trends and applying my skills to create innovative and efficient solutions.</h3><br>
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350"><br>
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="400" height="350"><br>
 
 - 🔭 I’m currently working on **Foreign Scholarship Web Portal**
 
