@@ -20,7 +20,7 @@
 - 💬 Ask me about **DevOps Tools**
 
 - 📫 How to reach me **rushikeshchavan815@gmail.com**
-  - [To view my resume, please click this link.](https://drive.google.com/file/d/11n2WRfL_BzBQRw2fo4l6CuAfNXhfJJMU/view?usp=drive_link)
+  - [To view my resume, please click this link.](https://drive.google.com/file/d/1TKTCLKiL_N7eSvZg5rjQVEdhYUVZCkYS/view)
 
 - 📄 Know about my experiences [https://techyrushi.vercel.app/](https://techyrushi.vercel.app//)
 
