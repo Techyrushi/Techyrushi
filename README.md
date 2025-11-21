@@ -1,6 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)](https://techyrushi.vercel.app/)
-
-
+![MasterHead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)
 
 <h1 align="center">👋 Hey Everyone, I’m <span style="color:#00AEEF">Rushikesh Chavan</span></h1>
 
