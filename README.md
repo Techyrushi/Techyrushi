@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://techyrushi.vercel.app/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](http://techyrushi.vercel.app/)
 
 <h1 align="center">👋 Hey Everyone, I’m <span style="color:#00AEEF">Rushikesh Chavan</span></h1>
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed26861ed9326f43c98c404b8f203b5.gif"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="400"><br>
 
 ### 🔭 Current Focus  
 - Building **Enterprise-grade E-commerce Systems**  
@@ -42,7 +42,7 @@
 
 ---
 
-<h3> 🛠️ &nbsp;Tech Stack</h3>  
+# 🛠️ Tech Stack
 
 ### 🎨 **Frontend**
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
@@ -54,67 +54,91 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
 ---
-  
-- 🌐 &nbsp;
-  ![React/React Native](https://img.shields.io/badge/-React/React%20Native-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=563D7C)
-  
-- 🛢️ &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  
-- 🛠️ &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=2C2255)
-  
-- 🎨 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
-- 📜 &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+### ⚙️ **Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![ExpressJS](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink)
+![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge&logo=openai)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
+![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge&logo=google)
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=protocols)
+
+---
+
+### 🛢️ **Databases & Messaging**
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apache-kafka)
+![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=microgen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+### ☁️ **DevOps & Cloud**
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu/CentOS)-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![GitLab](https://img.shields.io/badge/GitLab_CI/CD-000?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
+![AWS](https://img.shields.io/badge/AWS_(EC2/S3/RDS/Lambda)-000?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+
+---
+
+### 🧰 **Tools & Services**
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![LoadBalancer](https://img.shields.io/badge/Load_Balancer-000?style=for-the-badge&logo=nginx)
+![Putty](https://img.shields.io/badge/PuTTY-000?style=for-the-badge&logo=putty)
+![XAMPP](https://img.shields.io/badge/XAMPP-000?style=for-the-badge&logo=xampp)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
+![FileZilla](https://img.shields.io/badge/FileZilla-000?style=for-the-badge&logo=filezilla)
+![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)
+![WebHosting](https://img.shields.io/badge/Web_Hosting-000?style=for-the-badge&logo=internetarchive)
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="http://techyrushi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Techyrushi.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://instagram.com/_.rushikesh_chavan_?igshid=mznlngnkzwq4mg=="><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Techyrushi-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.facebook.com/profile.php?id=100087634534725"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Techyrushi-blue?style=flat-square&logo=facebook"></a>
-<a href="https://twitter.com/crushikesh74"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Techyrushi-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/chavanrushikesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Techyrushi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.geeksforgeeks.org/user/_rushikeshchavan/"><img alt="gfg" src="https://img.shields.io/badge/Geeksforgeeks-Techyrushi-blue?style=flat-square&logo=geeksforgeeks"></a>
-<a href="https://www.leetcode.com/TechyRushi"><img alt="leetcode" src="https://img.shields.io/badge/Leetcode-Techyrushi-blue?style=flat-square&logo=leetcode"></a>
-<a href="mailto:rushikeshchavan815@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Techyrushi-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://techyrushi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://instagram.com/_.rushikesh_chavan_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=100087634534725"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook"></a>
+  <a href="https://twitter.com/crushikesh74"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/chavanrushikesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.leetcode.com/TechyRushi"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"></a>
+  <a href="mailto:rushikeshchavan815@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/avayyyyyyy/avayyyyyyy/output/snake.svg" alt="Snake animation" />
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyrushi&show_icons=true&locale=en&layout=compact" alt="techyrushi" /></p>
+# 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&locale=en" alt="techyrushi" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyrushi&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techyrushi&" alt="techyrushi" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techyrushi&theme=tokyonight" />
+</p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/avayyyyyyy/avayyyyyyy/output/snake.svg" alt="Snake animation" />
+</p>
 
