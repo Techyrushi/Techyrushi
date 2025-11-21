@@ -1,41 +1,59 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](http://techyrushi.vercel.app/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://techyrushi.vercel.app/)
 
-<h1 align="center">Hey Everyone 👋, I'm Rushikesh Chavan</h1>
+<h1 align="center">👋 Hey Everyone, I’m <span style="color:#00AEEF">Rushikesh Chavan</span></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Techyrushi&label=Profile%20views&color=0e75b6&style=flat" alt="Techyrushi" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Techyrushi&label=Profile+Visits&color=0e75b6&style=flat" />
+</p>
 
-<h3 align="center"> 🔧 Backend Developer & DevOps Enthusiast | Expert in Backend Systems & Operational Efficiency 🌐</h3>
+<h3 align="center">🚀 Software Development Engineer | Backend Specialist | DevOps Learner</h3>
 
-<h3 align="center">I’m dedicated to mastering diverse technologies, from frontend frameworks to backend systems. With a passion for continuous learning, I am committed to staying ahead of tech trends and applying my skills to create innovative and efficient solutions.</h3><br>
+<h4 align="center">
+  Passionate about building scalable systems, automation workflows, cloud-native apps, and AI-powered solutions.  
+  Always learning. Always shipping. Always improving. ⚡
+</h4>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="400"><br>
+<br/>
 
-- 🔭 I’m currently working on **Foreign Scholarship Web Portal**
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed26861ed9326f43c98c404b8f203b5.gif"/>
 
-- 🌱 I’m currently learning **DevOps & Cloud DevOps**
+### 🔭 Current Focus  
+- Building **Enterprise-grade E-commerce Systems**  
+- Learning **DevOps, CI/CD, Cloud (AWS), and Infrastructure Automation**  
 
-- 👨‍💻 All of my projects are available at
-  - [https://github.com/Techyrushi](https://github.com/Techyrushi)
+### 🌱 Currently Exploring  
+- Docker, Kubernetes, Terraform  
+- AI Integrations in Backend Systems  
+- Event-driven & Microservices Architecture  
 
-- 💬 Ask me about **DevOps Tools**
+### 💬 Ask Me About  
+- Backend Engineering, APIs, Databases  
+- DevOps Tools, CI/CD, Cloud, Automation  
+- AI Tools & Integrations (RAG, Chatbots)  
 
-- 📫 How to reach me **rushikeshchavan815@gmail.com**
-  - [To view my resume, please click this link.](https://drive.google.com/file/d/1TKTCLKiL_N7eSvZg5rjQVEdhYUVZCkYS/view)
+### 🧑‍💻 Portfolio  
+- Projects: https://github.com/Techyrushi  
+- Resume: [Click here](https://drive.google.com/file/d/1KM-S06ZzzgtffVzeJQ0C7PsS-nqwpuHg/view)  
+- Personal Website: https://techyrushi.vercel.app/
 
-- 📄 Know about my experiences [https://techyrushi.vercel.app/](https://techyrushi.vercel.app//)
+### 📫 Contact  
+**Email:** `rushikeshchavan815@gmail.com`  
+**Fun Fact:** _“My code is 90% working and 10% attitude 😎💻”_
 
-- ⚡ Fun fact **"My code has a sense of humor – it laughs at my attempts to refactor! 😂💻"**
+---
 
 <h3> 🛠️ &nbsp;Tech Stack</h3>  
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+
+---
   
 - 🌐 &nbsp;
   ![React/React Native](https://img.shields.io/badge/-React/React%20Native-333333?style=flat&logo=react)
