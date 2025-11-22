@@ -91,7 +91,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
 ![Ansible](https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible)
 ![AWS](https://img.shields.io/badge/AWS_(EC2/S3/RDS/Lambda)-000?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 
 ---
