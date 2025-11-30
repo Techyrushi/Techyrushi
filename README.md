@@ -128,8 +128,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyrushi&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyrushi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
