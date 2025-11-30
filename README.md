@@ -111,7 +111,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://techyrushi.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"></a>
@@ -125,7 +125,7 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&theme=tokyonight" />
@@ -135,6 +135,20 @@
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techyrushi&theme=tokyonight" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=techyrushi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techyrushi&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
 ---
 
