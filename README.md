@@ -125,12 +125,17 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center"> DevOps Stats Matrix</h2>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=100&section=header&text=Techyrushi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=50"/>
+
+<div align="center">
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=techyrushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techyrushi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-statss-inky.vercel.app/api?username=rahuloraj&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=techyrushi&theme=tokyonight" />
@@ -146,13 +151,18 @@
 ---
 
 ## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techyrushi&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techyrushi&theme=react-dark&bg_color=0d1117&color=08f7fe&line=ff2e63&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/avayyyyyyy/avayyyyyyy/output/snake.svg" alt="Snake animation" />
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+
 
