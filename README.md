@@ -133,7 +133,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-statss-inky.vercel.app/api?username=rahuloraj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-statss-inky.vercel.app/api?username=Techyrushi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 </div>
 
