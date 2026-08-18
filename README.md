@@ -61,7 +61,17 @@ stack: AWS EKS · ArgoCD · Terraform · GitHub Actions · Prometheus · Grafana
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,grafana,prometheus,nginx,git&perline=7" />
+**Cloud · Containers · IaC**
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,helm&perline=7" />
+
+**GitOps · CI/CD · Delivery**
+
+<img src="https://skillicons.dev/icons?i=argocd,jenkins,githubactions,gitlab,git,nginx,redis&perline=7" />
+
+**Observability · Data · Reliability**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog,elasticsearch,kafka,postgres,bash&perline=7" />
 
 </div>
 
@@ -70,13 +80,28 @@ stack: AWS EKS · ArgoCD · Terraform · GitHub Actions · Prometheus · Grafana
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-EKS·EC2·S3·RDS·IAM·VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-GitOps·Helm·ArgoCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Observability-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab-CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-DevSecOps-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Secrets-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Ingress·SSL/TLS-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-APM·Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-Logs·Search-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Tracing-F5A800?style=for-the-badge&logo=opentelemetry&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
