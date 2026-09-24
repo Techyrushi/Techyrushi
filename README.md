@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Techyrushi&label=Profile+Views&color=08f7fe&style=for-the-badge)](https://github.com/Techyrushi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-techyrushi.vercel.app-FEFE5B?style=for-the-badge&logo=google-chrome&logoColor=black)](https://techyrushi.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Download-ff2e63?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1WuCctDbgT0rP3Gp_V1psB6GcPpkOuuRP/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download-ff2e63?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P9lHn1Ls6T-iu0dyC1U5DHr3T9OKhiSf/view?usp=sharing)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FEFE5B&center=true&vCenter=true&width=780&lines=DevOps+Engineer+%7C+SRE;GitOps+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Terraform;Building+platforms+that+ship+fast+and+stay+up.;3%2B+years+in+production+cloud+%26+reliability+engineering"/>
 
